@@ -108,6 +108,10 @@ ul {
       font-weight: 700; }
     .header_area .navbar .navbar-brand {
       padding-top: 0; }
+      .navbar-brand img, .footer-area img{
+    width: 65px;
+    height: inherit;
+}
     .header_area .navbar .nav .nav-item {
       margin-right: 45px; }
       .header_area .navbar .nav .nav-item .nav-link {
@@ -3375,6 +3379,7 @@ h6 {
 }
 .footer_social{
   padding: 0 80px;
+  padding-top: 45px;
 }
 .footer_social li a{
     color: #f8f9fa;
@@ -3384,6 +3389,8 @@ h6 {
   font-size: 16px;
   padding: 0 20px;
   color: #fff;
+  padding-top: 45px;
+  
 }
 
 .form-edit {
